@@ -1,5 +1,5 @@
 # BBQ Splash Page
-Project Link: [https://l-diasa.github.io/BBQ-Splash-page/](https://l-diasa.github.io/BBQ-Splash-page/)
+Project Link: [https://l-diasa.github.io/BBQ-Splash-Page/](https://l-diasa.github.io/BBQ-Splash-Page/)
 ### Dev Stories
 #### Revised the following materials:
 - [x] Line-height
